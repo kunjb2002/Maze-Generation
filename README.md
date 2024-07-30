@@ -1,5 +1,6 @@
+Authors: Kunj Bhavsar &
 Pun Bahadur Chhetri
-Kunj Bhavsar
+
 CS351-Project4
 
 
